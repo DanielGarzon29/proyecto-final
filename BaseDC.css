@@ -1,0 +1,22 @@
+
+body {
+    background-color: #92d0ff
+}
+
+#titulo {
+    margin: 40px;
+}
+#div1 {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.img1{
+    height: 100px;
+    width: 100px;
+}
+.cover-container 
+{
+  max-width: 42em;
+}
